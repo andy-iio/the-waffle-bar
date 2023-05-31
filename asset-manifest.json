@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/the-waffle-bar/static/css/main.165624ee.css",
+    "main.js": "/the-waffle-bar/static/js/main.10799a86.js",
+    "static/js/787.cf69a9b4.chunk.js": "/the-waffle-bar/static/js/787.cf69a9b4.chunk.js",
+    "static/media/waffleonastick.png": "/the-waffle-bar/static/media/waffleonastick.886239f4468ad6e8a608.png",
+    "static/media/main.png": "/the-waffle-bar/static/media/main.624702707e6541bb219e.png",
+    "static/media/icecreamwaffle.png": "/the-waffle-bar/static/media/icecreamwaffle.cc6b656244b111bb81c7.png",
+    "static/media/classicwaffle.png": "/the-waffle-bar/static/media/classicwaffle.1680611716c55b51ba4c.png",
+    "static/media/wafflebreakfastsandwich.png": "/the-waffle-bar/static/media/wafflebreakfastsandwich.21705968cfd05a33e068.png",
+    "static/media/chickenwaffle.png": "/the-waffle-bar/static/media/chickenwaffle.8cc0fc0887cd02374a33.png",
+    "static/media/fruitwaffle.png": "/the-waffle-bar/static/media/fruitwaffle.e2eeb5d337527ac7d3bc.png",
+    "static/media/wafflecone.png": "/the-waffle-bar/static/media/wafflecone.fba0f3682559839bc448.png",
+    "static/media/chocolatewaffle.png": "/the-waffle-bar/static/media/chocolatewaffle.fa73617588b73904f097.png",
+    "static/media/smoreswaffle.png": "/the-waffle-bar/static/media/smoreswaffle.c542a2cb81d06d659f0f.png",
+    "static/media/map.png": "/the-waffle-bar/static/media/map.3161e0eabeb54abda8b9.png",
+    "static/media/aboutus.png": "/the-waffle-bar/static/media/aboutus.fd12c00dd28c5d6e245d.png",
+    "static/media/mobile-main.png": "/the-waffle-bar/static/media/mobile-main.4ae94b08e5bfec6975f6.png",
+    "index.html": "/the-waffle-bar/index.html",
+    "main.165624ee.css.map": "/the-waffle-bar/static/css/main.165624ee.css.map",
+    "main.10799a86.js.map": "/the-waffle-bar/static/js/main.10799a86.js.map",
+    "787.cf69a9b4.chunk.js.map": "/the-waffle-bar/static/js/787.cf69a9b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165624ee.css",
+    "static/js/main.10799a86.js"
+  ]
+}
